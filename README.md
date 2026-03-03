@@ -1,1 +1,3 @@
 # Terraform-modules
+-------------------
+- Terraform Modules are reusable and self-contained packages of Terraform configurations that can be used to manage infrastructure resources. They allow you to organize and encapsulate your infrastructure code, making it easier to manage and reuse across different projects and environments. Modules can be created locally within your project or sourced from external repositories, such as the Terraform Registry. They typically consist of a set of Terraform configuration files that define the resources, variables, outputs, and any necessary dependencies. By using modules, you can promote code reusability, maintainability, and consistency in your infrastructure management.
